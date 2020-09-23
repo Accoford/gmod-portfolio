@@ -10,5 +10,5 @@ I've been playing Garry's mod for a long time (since 2016)
 * HTML
 * C++
 
-# My Portfolio:
+# My some jobs:
 ![alt text](https://i.stack.imgur.com/sMUbB.png)
