@@ -11,4 +11,5 @@ I've been playing Garry's mod for a long time (since 2016)
 * C++
 
 # My some jobs:
-![alt text](https://i.stack.imgur.com/sMUbB.png)
+* Clean system
+* ![alt text](https://i.imgur.com/X28QBiG.jpg)
