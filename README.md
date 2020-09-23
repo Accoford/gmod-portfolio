@@ -15,4 +15,7 @@ I've been playing Garry's mod for a long time (since 2016)
 ![alt text](https://i.imgur.com/X28QBiG.jpg)
 ![alt text](https://i.imgur.com/UPSXOAU.png)
 
-* 
+* Corpse System
+![alt text](https://i.imgur.com/25tpetx.jpg)
+![alt text](https://i.imgur.com/31khZNN.jpeg)
+
