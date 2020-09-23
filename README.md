@@ -2,7 +2,11 @@
 ```
 /--------------------------------------------------------------------
 I had experience with languages c ++, html, lua                      
-I've been playing Garry's mod for a long time (since 2016)           
+I've been playing Garry's mod for a long time (since 2016)       
+My Steam Profile https://steamcommunity.com/profiles/76561199064394310/
+Accoford
+STEAM_0:0:552064291
+Empirean#0172
 ---------------------------------------------------------------------
 ```
 ## I know programming language:
