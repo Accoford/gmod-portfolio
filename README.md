@@ -13,6 +13,6 @@ I've been playing Garry's mod for a long time (since 2016)
 # My some jobs:
 * Clean system
 ![alt text](https://i.imgur.com/X28QBiG.jpg)
-Config:
+* Config:
 ![alt text](https://i.imgur.com/UPSXOAU.png)
 
