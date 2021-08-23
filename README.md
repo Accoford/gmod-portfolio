@@ -6,7 +6,7 @@ I've been playing Garry's mod for a long time (since 2016)
 My Steam Profile https://steamcommunity.com/profiles/76561199064394310/
 Accoford
 STEAM_0:0:552064291
-Empirean#0172
+
 ---------------------------------------------------------------------
 # Last Updated (29.09.2020)
 ```
